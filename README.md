@@ -3,7 +3,7 @@
 <h3 align="center">Welcome!!</h3>
 
 ```markdown
-# Owner: Mario Gutierrez
-# Phone Number: 973-567-8971
-# email: <mgnts.crypto.club@gmail.com>
+**Owner: Mario Gutierrez** 
+**Phone Number: 973-567-8971**
+**email: <mgnts.crypto.club@gmail.com>**
 ```
