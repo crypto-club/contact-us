@@ -5,5 +5,5 @@
 ```markdown
 # Owner: Mario Gutierrez
 # Phone Number: 973-567-8971
-# [Contact Us](mailto:mgnts.crypto.club@gmail.com)
+# email: <mgnts.crypto.club@gmail.com>
 ```
