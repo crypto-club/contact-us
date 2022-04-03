@@ -1,7 +1,6 @@
-<h1 align="center">Contact The NFT & Crypto Team</h1>
+<h1 align="center">Contact The Crypto & NFT Team</h1>
 <h2 align="center">Welcome!!</h2>
-<h2 align="center">Contact or Support</h2>
-
+<h2 align="center">Contact Us Today!</h2>
 
 ```markdown
 * Owner: Mario Gutierrez 
